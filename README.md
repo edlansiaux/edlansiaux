@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edlansiaux
 - 👀 I’m interested in Emergency medecine, risk analysis
-- 🌱 I’m currently MD student and MSc student, junior contributor to Global Variations (https://www.globalvariations.com/).
+- 🌱 I’m currently MD resident in Emergency Student and MSc student.
 - 💞️ I’m looking to collaborate on risk analysis projects.
 - 📫 Contact :
   -    Mail: edouard.lansiaux.etu@univ-lille.fr
