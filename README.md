@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edlansiaux
-- 👀 I’m interested in Emergency medecine, risk analysis
+- 👀 I’m interested in Emergency Medicine, risk analysis
 - 🌱 I’m currently MD resident in Medicine Student and MSc student.
 - 💞️ I’m looking to collaborate on risk analysis projects.
 - 📫 Contact :
