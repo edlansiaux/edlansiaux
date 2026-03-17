@@ -3,7 +3,7 @@
 - 🌱 I’m currently MD doctor and MSc student.
 - 💞️ I’m looking to collaborate on risk analysis projects.
 - 📫 Contact :
-  -    Mail: edouard.lansiau@orange.fr
+  -    Mail: edouard.lansiaux@orange.fr
   -    Twitter: @EdgyLsx
   -    LinkedIn: https://fr.linkedin.com/in/edouard-lansiaux-14381a151/en-us
   -    ORCID: https://orcid.org/0000-0002-4342-8707
